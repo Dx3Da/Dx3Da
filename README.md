@@ -1,8 +1,8 @@
 # ⚡ Terminal.exe > Luiz Fernando (Dx3Da)
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=venom&color=00d4ff&height=200&section=header&text=Dx3Da&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20|%20Analytical%20Thinker&descAlignY=62&descSize=20" width="100%"/>
-</div>
+<!-- <div align="center">
+  <img src="https://img.shields.io/badge/Dx3Da-PYTHON%20DEVELOPER%20%7C%20ANALYTICAL%20THINKER-00d4ff?style=for-the-badge&labelColor=05070a" width="100%" height="100">
+</div> -->
 
 ### 🛰️ System Status
 - 🎓 **Estudante:** 2º ano de Ciência da Computação.
@@ -22,13 +22,12 @@
 
 ---
 
-### 📊 Datastream (GitHub Stats)
+### 📊 Datastream (System Metrics)
 
 <div align="center">
-  <a href="https://github.com/Dx3Da">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dx3Da&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dx3Da&layout=compact&langs_count=6&theme=tokyonight"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dx3Da&show_icons=true&bg_color=05070a&title_color=00d4ff&text_color=f0f0f0&icon_color=ff00ff&include_all_commits=true&count_private=true&border_radius=10" alt="Dx3Da Github Stats" />
+  
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dx3Da&layout=compact&langs_count=6&bg_color=05070a&title_color=00d4ff&text_color=f0f0f0&icon_color=ff00ff&border_radius=10" alt="Dx3Da Top Langs" />
 </div>
 
 ---
