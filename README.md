@@ -35,8 +35,6 @@
 ### 🚀 Ongoing Projects (Projetos Atuais)
 - **MeOrganize:** Plataforma de organização pessoal (Finanças e Estudos).
 - **Tendências:** Analisador de dados via Google Trends.
-- **Hermes:** IA para otimização de rotas logísticas.
-
 ---
 
 ### 📧 Contact / Social
