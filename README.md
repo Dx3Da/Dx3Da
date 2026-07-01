@@ -1,8 +1,9 @@
 # ⚡ Terminal.exe > Luiz Fernando (Dx3Da)
 
-<!-- <div align="center">
-  <img src="https://img.shields.io/badge/Dx3Da-PYTHON%20DEVELOPER%20%7C%20ANALYTICAL%20THINKER-00d4ff?style=for-the-badge&labelColor=05070a" width="100%" height="100">
-</div> -->
+> [!IMPORTANT]
+> ⚠️ **Aviso Importante:** Este perfil está passando por uma grande reestruturação arquitetural. Estou migrando meus estudos de Notebooks Jupyter (`.ipynb`) para scripts puros (`.py`) estruturados e modulares, aplicando boas práticas de Clean Code e versionamento de banco de dados locais.
+> 
+> 📂 **Onde encontrar as coisas hoje:** No momento, os meus mini-projetos, estudos e desafios principais ainda se encontram e estão rodando de forma totalmente funcional nos arquivos `.ipynb` (Jupyter Notebooks) dentro dos repositórios antigos( Cafeteira-Inteligente ). Sinta-se à vontade para explorar os notebooks enquanto a migração acontece! 🚀
 
 ### 🛰️ System Status
 - 🎓 **Estudante:** 2º ano de Ciência da Computação.
